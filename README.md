@@ -1,4 +1,4 @@
-# Online_Store_Database_Management_System
+# Online_Store_Database_Management_System_Kwantlen_Polytechnic_University_By_Jassa
 2.2. Title
 GetIt – Online Store
 
